@@ -134,7 +134,3 @@ Sinta-se à vontade para contribuir com este projeto! Abra um _issue_ ou envie u
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Espero que este README atenda às suas necessidades! Se precisar de mais alguma informação ou personalização, é só avisar.
