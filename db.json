@@ -1,0 +1,31 @@
+{ 
+    "users": [
+        {
+            "id": 1001, 
+            "name": "Larissa",
+            "login": "larissamscorrea",
+            "password": "123456",
+            "email": "larissa@teste.com",
+            "permissions": [
+                {
+                    "path": "/home"
+                },
+                {
+                    "path": "dashboard"
+                }
+            ]
+        },
+        {
+            "id": 1001, 
+            "name": "Lua",
+            "login": "luamscorrea",
+            "password": "123456",
+            "email": "lua@teste.com",
+            "permissions": [
+                {
+                    "path": "/home"
+                }
+            ]
+        }
+    ]
+}
